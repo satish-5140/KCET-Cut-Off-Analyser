@@ -3,6 +3,9 @@
 A production-ready Streamlit application that extracts and filters specific engineering branches from large KCET cutoff PDFs.
 
 ---
+## 🚀 Live App: https://kcet-cut-off-analyser-satish-patil.streamlit.app/
+
+---
 
 ## 📁 Project Structure
 
