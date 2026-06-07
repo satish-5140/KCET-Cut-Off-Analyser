@@ -1,5 +1,30 @@
 # 🎓 KCET Cutoff Analyser
 
+> Built this for my brother's KCET college option entry — instead of manually scanning 
+> hundreds of pages, this tool filters only the branches he needed in seconds.
+
+## 🚀 Live App
+👉 https://kcet-cut-off-analyser-satish-patil.streamlit.app/
+
+## 💡 Why I Built This
+My brother was filling his KCET option entry form and had to go through a 
+300+ page cutoff PDF to find specific branches across hundreds of colleges. 
+It was taking hours. So I built this tool over a weekend — upload the PDF, 
+type the branches you want, and instantly get a filtered result as PDF, Excel or CSV.
+
+## 🛠 Tech Stack
+- Python
+- Streamlit
+- pdfplumber / PyMuPDF
+- ReportLab
+- Pandas / OpenPyXL
+
+## 👨‍💻 About
+Hobby project by Satish — built to solve a real problem during KCET 2025 admissions.
+
+
+# 🎓 KCET Cutoff Analyser
+
 A production-ready Streamlit application that extracts and filters specific engineering branches from large KCET cutoff PDFs.
 
 ---
